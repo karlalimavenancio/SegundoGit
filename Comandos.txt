@@ -1,0 +1,3 @@
+Comandos Git:
+
+ - git init: utilizado para inicializar um repositório local
